@@ -4,6 +4,8 @@
 
 - <b>Malware Analysis</b>
   - [Malicious Word Document](https://github.com/Justin200104/PrivacyFinalProject)
+  - [Malicious Binary]()
+  - [Password Crackers]()
   
 - <b>Cryptography</b>
   - [Meet in the middle attack on DoubleDES]()
