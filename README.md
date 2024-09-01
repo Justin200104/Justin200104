@@ -27,6 +27,7 @@
 
 - <b>ICS2 Certified In Cybersecurity (In Progress)</b>
 - <b>Bachelors of Computer Science (Majoring in Cybersecurity)</b>
+- <b>Advanced Diploma of Software Engineering Technology</b>
 
 
 
