@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects & Software Development projects</h2>
 
 - <b>Malware Analysis</b>
-  - [Malicious Word Document](https://github.com/Justin200104/PrivacyFinalProject)
+  - [Malicious Word Document](https://github.com/Justin200104/MalwareAnalysisFinalProject)
   
 - <b>Cryptography</b>
   - [Meet in the middle attack on DoubleDES](https://github.com/Justin200104/Meet-In-The-Middle-Attack-on-2DES/tree/main)
