@@ -17,9 +17,10 @@
     
 - <b>Secure Enterprise architecture</b>
   - [Designed an organization & its Security policies and process](https://github.com/Justin200104/Designed-an-organization-its-Security-policies-and-process)
-
+- <b>data visualization</b>
+  - [Covid 19 Data Visulization](https://www.youtube.com/watch?v=QNjYpxxwE3c)
 - <b>Capstone Project</b>
-  - [Pandora VR]()
+  - [Pandora VR Prototype](https://www.youtube.com/watch?v=T_eCAfjK-NY)
 
 <h2>📝 Certifications and Education</h2>
 
