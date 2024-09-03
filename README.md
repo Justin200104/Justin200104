@@ -4,8 +4,6 @@
 
 - <b>Malware Analysis</b>
   - [Malicious Word Document](https://github.com/Justin200104/PrivacyFinalProject)
-  - [Malicious Binary]()
-  - [Password Crackers]()
   
 - <b>Cryptography</b>
   - [Meet in the middle attack on DoubleDES](https://github.com/Justin200104/Meet-In-The-Middle-Attack-on-2DES/tree/main)
@@ -18,7 +16,7 @@
   - [PseudoChat A Private Chatting app](https://github.com/Justin200104/PrivacyFinalProject)
     
 - <b>Secure Enterprise architecture</b>
-  - [Design an organization & its Security policies and process]()
+  - [Designed an organization & its Security policies and process](https://github.com/Justin200104/Designed-an-organization-its-Security-policies-and-process)
 
 - <b>Capstone Project</b>
   - [Pandora VR]()
