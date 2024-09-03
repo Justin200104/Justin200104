@@ -8,7 +8,7 @@
   - [Password Crackers]()
   
 - <b>Cryptography</b>
-  - [Meet in the middle attack on DoubleDES](https://github.com/Justin200104/Meet-In-The-Middle-Attack-on-2DES/blob/main/MeetInTheMiddleAttackOnDoubleDES.py)
+  - [Meet in the middle attack on DoubleDES](https://github.com/Justin200104/Meet-In-The-Middle-Attack-on-2DES/tree/main)
   - [Program that Finds Collision in SHA256 Hashes](https://github.com/Justin200104/SHA256-Collision-Finder)
   - [Fermat's Primality and Miller-Rabin Primality Tests](https://github.com/Justin200104/Fermat-s-Primality-and-Miller-Rabin-Primality-Test)
   - [RSA Key Generation & Encryption And Decryption](https://github.com/Justin200104/RSA-Key-Generation-Encrypt-and-Decrypt)
