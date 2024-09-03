@@ -8,11 +8,11 @@
   - [Password Crackers]()
   
 - <b>Cryptography</b>
-  - [Meet in the middle attack on DoubleDES]()
-  - [Program that Finds Collision in SHA256 Hashes]()
-  - [Fermat's Primality and Miller-Rabin Primality Tests]()
-  - [RSA Key Generation & Encryption And Decryption]()
-  - [Shanks Algorithm Elliptic Curve Cryptography]()
+  - [Meet in the middle attack on DoubleDES](https://github.com/Justin200104/Meet-In-The-Middle-Attack-on-2DES/blob/main/MeetInTheMiddleAttackOnDoubleDES.py)
+  - [Program that Finds Collision in SHA256 Hashes](https://github.com/Justin200104/SHA256-Collision-Finder)
+  - [Fermat's Primality and Miller-Rabin Primality Tests](https://github.com/Justin200104/Fermat-s-Primality-and-Miller-Rabin-Primality-Test)
+  - [RSA Key Generation & Encryption And Decryption](https://github.com/Justin200104/RSA-Key-Generation-Encrypt-and-Decrypt)
+  - [Shanks Algorithm Elliptic Curve Cryptography](https://github.com/Justin200104/Elliptic-Curve-Cryptography)
 
 - <b>Privacy and Computing</b>
   - [PseudoChat A Private Chatting app](https://github.com/Justin200104/PrivacyFinalProject)
