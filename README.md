@@ -5,6 +5,9 @@
 - <b>Malware Analysis</b>
   - [Malicious Word Document](https://github.com/Justin200104/MalwareAnalysisFinalProject)
   
+- <b>Security Analyst Porjects</b>
+  - [SOC Home Lab]()
+  
 - <b>Cryptography</b>
   - [Meet in the middle attack on DoubleDES](https://github.com/Justin200104/Meet-In-The-Middle-Attack-on-2DES/tree/main)
   - [Program that Finds Collision in SHA256 Hashes](https://github.com/Justin200104/SHA256-Collision-Finder)
