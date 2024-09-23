@@ -5,7 +5,7 @@
 - <b>Malware Analysis</b>
   - [Malicious Word Document](https://github.com/Justin200104/MalwareAnalysisFinalProject)
   
-- <b>Security Analyst Porjects</b>
+- <b>Security Analyst Projects</b>
   - [SOC Home Lab](https://github.com/Justin200104/Security-Analyst---SOC-Home-Lab)
   
 - <b>Cryptography</b>
