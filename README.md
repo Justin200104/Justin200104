@@ -27,10 +27,10 @@
 
 <h2>📝 Certifications and Education</h2>
 
-- <b>ICS2 Certified In Cybersecurity (In Progress)</b>
+- <b>ICS2 System Security Certified Practitioner (SSCP) (In Progress)</b>
 - <b>Bachelors of Computer Science (Majoring in Cybersecurity)</b>
 - <b>Advanced Diploma of Software Engineering Technology</b>
-- <b>TryHackMe Junior Penetration Tester (In Progress)</b>
+- <b>TryHackMe Security Engineer (In Progress)</b>
 
 
 <h2>🤳Connect With Me</h2>
